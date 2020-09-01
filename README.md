@@ -2,4 +2,4 @@
 
 ## Una parte
 
-## Thanos
+## THANOS
