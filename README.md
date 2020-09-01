@@ -1,5 +1,3 @@
 # Ejemplo
 
 ## Una parte
-
-## Thanos
